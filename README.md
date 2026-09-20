@@ -1,1 +1,1 @@
-![GitHub Stats](https://github-readme-stats-beta-nine-57.vercel.app/api?username=Anth0nyZz&show_icons=true&include_all_commits=true&show=prs_merged&rank_icon=default)
+![GitHub Stats](https://github-readme-stats-beta-nine-57.vercel.app/api?username=Anth0nyZz&show_icons=true&include_all_commits=true&show=prs_merged&rank_icon=default&card_width=467&line_height=25&number_format=short&title_color=006AFF&text_color=417E87&icon_color=0579C3&ring_color=006AFF&border_color=e4e2e2&bg_color=00000000)

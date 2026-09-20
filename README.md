@@ -1,3 +1,13 @@
+## About Me
+
+Hi, I'm Anthony, a software engineering and data science student with hands-on experience building and deploying full-stack web applications.
+
+I have independently delivered production-level projects from requirement analysis and system design to full-stack development, database design, cloud deployment, and maintenance. My main stack includes TypeScript, JavaScript, React, Vue, Node.js, Python, PostgreSQL, MySQL, and cloud platforms such as AWS and Alibaba Cloud.
+
+I am particularly interested in software engineering, full-stack development, AI engineering, and building practical systems that solve real-world problems. I also use modern AI development tools such as Cursor and Claude Code to improve development efficiency and workflow.
+
+Currently, I am continuing to strengthen my skills in backend systems, cloud deployment, machine learning, and AI application development.
+
 ![GitHub Stats](https://github-readme-stats-beta-nine-57.vercel.app/api?username=Anth0nyZz&show_icons=true&include_all_commits=true&show=prs_merged&rank_icon=default&card_width=467&line_height=25&number_format=short&title_color=006AFF&text_color=417E87&icon_color=0579C3&ring_color=006AFF&border_color=e4e2e2&bg_color=00000000)
 
 ## Technical Skills & Tools
